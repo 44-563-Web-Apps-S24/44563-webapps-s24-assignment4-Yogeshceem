@@ -1,0 +1,29 @@
+.speech{
+    font-family: Arial, sans-serif;
+    font-size: 30px ;
+    color: black;
+}
+.direction{
+    font-family: "Times New Roman", serif;
+    font-size: 30px ;
+    color: black;
+    background-color: beige;
+    
+}
+.direction:hover {
+    background-color: lightblue;
+    color: white;
+
+}
+.name {
+    font-weight: bold;
+}
+.YASHA{
+    color: red;
+}
+.VARYA{
+    color: purple;
+}
+.ANYA{
+    color: lightgreen;
+}
